@@ -9,23 +9,24 @@
         "pyrogram",
         "hellbot"
     ],
-    "repository": "https://github.com/The-HellBot/HellBot/",
+    "repository": "https://github.com/Wizardtexh/HellBot/",
     "env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
-            "value": ""
+            "value": "5bbe700f9968323b178c1408f5142c9b
+"
         },
         "API_ID": {
             "description": "Get this value from my.telegram.org",
-            "value": ""
+            "value": "25155648"
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather and paste the bot token here.",
-            "value": ""
+            "value": "6644961130:AAGN-tw-pYYKy5w2LZqbhhuucEMyW2AFIKg"
         },
         "DATABASE_URL": {
             "description": "Only use mongodb url here. Get it from https://mongodb.com/",
-            "value": ""
+            "value": "mongodb+srv://ravi:ravi12345@cluster0.hndinhj.mongodb.net/?retryWrites=true&w=majority"
         },
         "HANDLERS": {
             "description": "Lis of handlers seperated with a space to use for userbot command trigger.",
@@ -34,19 +35,19 @@
         },
         "LOGGER_ID": {
             "description": "The chat id of your logging channel/group.",
-            "value": ""
+            "value": "-1002137915761"
         },
         "OWNER_ID": {
             "description": "Your user id.",
-            "value": ""
+            "value": "Hn"
         },
         "HEROKU_APPNAME": {
             "description": "Your heroku app name. Get it from the top of this page.",
-            "value": ""
+            "value": "hellmasternaksh777"
         },
         "HEROKU_APIKEY": {
             "description": "Heroku api key. Get it from https://dashboard.heroku.com/account",
-            "value": ""
+            "value": "HRKU-a75fcca5-cce7-433e-8b8b-cd5107b800ef"
         },
         "PLUGINS_REPO": {
             "description": "Fillup the username/reponame of the plugins repo.",
