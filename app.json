@@ -13,7 +13,7 @@
     "env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
-            "value": "5bbe700f9968323b178c1408f5142c9b
+            "value": "5bbe700f9968323b178c1408f5142c9b"
 "
         },
         "API_ID": {
