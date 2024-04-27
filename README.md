@@ -11,7 +11,7 @@
 
 ---
 
-![GitHub forks](https://img.shields.io/github/forks/Wizardtexh/HellBot?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Hell-bot/HellBot?style=social)
 ![GitHub Repo stars](https://img.shields.io/github/stars/The-HellBot/Hellbot?style=social)
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
