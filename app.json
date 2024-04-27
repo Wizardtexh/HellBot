@@ -39,7 +39,8 @@
         },
         "OWNER_ID": {
             "description": "Your user id.",
-            "value": "Hn"
+            "value": "6500842766"
+
         },
         "HEROKU_APPNAME": {
             "description": "Your heroku app name. Get it from the top of this page.",
