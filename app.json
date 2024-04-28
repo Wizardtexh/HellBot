@@ -13,12 +13,12 @@
     "env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
-            "value": "5bbe700f9968323b178c1408f5142c9b"
+            "value": "36ec891e0a5cdf8c1af3c20772dbbd6a"
 "
         },
         "API_ID": {
             "description": "Get this value from my.telegram.org",
-            "value": "25155648"
+            "value": "29109422"
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather and paste the bot token here.",
@@ -32,10 +32,6 @@
             "description": "Lis of handlers seperated with a space to use for userbot command trigger.",
             "value": ". ! , ?",
             "required": false
-        },
-        "LOGGER_ID": {
-            "description": "The chat id of your logging channel/group.",
-            "value": "-1002137915761"
         },
         "OWNER_ID": {
             "description": "Your user id.",
